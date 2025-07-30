@@ -95,14 +95,14 @@ export default async function RootLayout({
           </SiteProvider>
         </ThemeProvider>
       </body>
- <div  classname="text-center">
+ <div  className="text-center">
     Powered by 💝💝💝
 <a href="https://cloudflare.com/" rel="noopener noreferrer" target="_blank">赛博菩萨</a>；
   <a href="https://github.com/" rel="noopener noreferrer" target="_blank">小黄人</a>；
   <a href="https://www.cloudns.net/" rel="noopener noreferrer" target="_blank">CloudNS</a>；
   <a href="https://account.proton.me/mail" rel="noopener noreferrer" target="_blank">Proton Mail</a>；💝💝💝
 </div>
-<div  classname="text-center">
+<div  className="text-center">
    <p>
    🛠️🛠️🛠️网站联盟（自用）：
    <a href="https://imgbed.19781126.xyz/" rel="noopener noreferrer" target="_blank">图床</a>；
