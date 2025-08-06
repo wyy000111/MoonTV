@@ -125,21 +125,24 @@ export default async function RootLayout({
   <a href="https://www.cloudns.net/" rel="noopener noreferrer" target="_blank">CloudNS</a>；
   <a href="https://account.proton.me/mail" rel="noopener noreferrer" target="_blank">Proton Mail</a>；💝💝💝
 </div>
-<div  className="text-center">
+ <div>
    <p>
    🛠️🛠️🛠️网站联盟（自用）：
-   <a href="https://imgbed.19781126.xyz/" rel="noopener noreferrer" target="_blank">图床</a>；
+    <a href="https://imgbed.19781126.xyz/" rel="noopener noreferrer" target="_blank">图床</a>；
     <a href="https://paste.19781126.xyz/" rel="noopener noreferrer" target="_blank">网盘/WebDav</a>；
+    <a href="https://tgfile.19781126.xyz/" rel="noopener noreferrer" target="_blank">Telegram文件存储</a>；
     <a href="https://tv.19781126.xyz/" rel="noopener noreferrer" target="_blank">在线TV</a>；
     <a href="https://tempemail.19781126.xyz/" rel="noopener noreferrer" target="_blank">临时邮箱</a>；
     <a href="https://media.19781126.xyz/" rel="noopener noreferrer" target="_blank">多媒体博客</a>；
     <a href="https://github.19781126.xyz/" rel="noopener noreferrer" target="_blank">GH加速</a>；
     <a href="https://comment.19781126.xyz/" rel="noopener noreferrer" target="_blank">评论</a>；
     <a href="https://mail.19781126.xyz/" rel="noopener noreferrer" target="_blank">邮箱</a>；
-    <a href="https://chat.19781126.xyz/" rel="noopener noreferrer" target="_blank"> AI </a>；
+    <a href="https://chat.19781126.xyz/" rel="noopener noreferrer" target="_blank">AI Chat</a>；
+    <a href="https://gemini.19781126.xyz/" rel="noopener noreferrer" target="_blank">Google Gemini</a>；
     <a href="https://www.19781126.xyz/" rel="noopener noreferrer" target="_blank">博客</a>；
     <a href="https://epush.19781126.xyz/" rel="noopener noreferrer" target="_blank">消息推送</a>；
-         <a href="https://moontv.19781126.xyz/" rel="noopener noreferrer" target="_blank">MoonTV</a>；🛠️🛠️🛠️
+       <a href="https://moontv.19781126.xyz/" rel="noopener noreferrer" target="_blank">MoonTV</a>；
+       🛠️🛠️🛠️
  </p>
  <hr />
 </div>
