@@ -142,7 +142,7 @@ export default async function RootLayout({
     <a href="https://gemini.19781126.xyz/" rel="noopener noreferrer" target="_blank">Google Gemini</a>；
     <a href="https://www.19781126.xyz/" rel="noopener noreferrer" target="_blank">博客</a>；
     <a href="https://epush.19781126.xyz/" rel="noopener noreferrer" target="_blank">消息推送</a>；
-       <a href="https://moontv.19781126.xyz/" rel="noopener noreferrer" target="_blank">MoonTV</a>；
+    <a href="https://moontv.19781126.xyz/" rel="noopener noreferrer" target="_blank">MoonTV</a>；
        🛠️🛠️🛠️
  </p>
  <hr />
